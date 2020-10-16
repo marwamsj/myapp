@@ -1,0 +1,35 @@
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQrGOEHrFc5mAv8AUMMwvRl7rsnf1wvBYGf8Q&usqp=CAU");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.count{
+  text-align: center;
+}
+.count h1{
+  font-size: 250%;
+}
+.count h2{
+  font-size: large;
+}
+.name{
+  display: flex;
+  margin: 4% 27% 0 27%;
+  font-size: 1em;
+}
+.Email{
+  display: flex;
+  margin: 2% 35%;
+}
+.Password{
+  display: flex;
+  margin: 0 29%;
+}
+.Phone{
+  display: flex;
+  margin: 2% 33.5% 4% 33.5%;
+}
+button:hover {
+  color: #17a2b8;
+}
